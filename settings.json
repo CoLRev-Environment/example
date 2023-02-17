@@ -47,6 +47,18 @@
                 "endpoint": "colrev_built_in.bibtex"
             },
             "comment": ""
+        },
+        {
+            "endpoint": "colrev_built_in.dblp",
+            "filename": "data/search/dblp_microsourcing.bib",
+            "search_type": "DB",
+            "search_parameters": {
+                "query": "https://dblp.org/search/publ/api?q=microsourcing"
+            },
+            "load_conversion_package_endpoint": {
+                "endpoint": "colrev_built_in.bibtex"
+            },
+            "comment": ""
         }
     ],
     "search": {
