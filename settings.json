@@ -59,6 +59,27 @@
                 "endpoint": "colrev_built_in.bibtex"
             },
             "comment": ""
+        },
+        {
+            "endpoint": "colrev_built_in.ais_library",
+            "filename": "data/search/ais_aisel_microsourcing.bib",
+            "search_type": "DB",
+            "search_parameters": {
+                "query": {
+                    "search_terms": [
+                        {
+                            "operator": "",
+                            "term": "microsourcing",
+                            "field": "All fields"
+                        }
+                    ],
+                    "peer_reviewed": false
+                }
+            },
+            "load_conversion_package_endpoint": {
+                "endpoint": "colrev_built_in.bibtex"
+            },
+            "comment": ""
         }
     ],
     "search": {
