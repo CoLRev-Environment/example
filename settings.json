@@ -36,6 +36,16 @@
                 "endpoint": "colrev.bibtex"
             },
             "comment": ""
+        },
+        {
+            "endpoint": "colrev.unknown_source",
+            "filename": "data/search/30_example_records.bib",
+            "search_type": "DB",
+            "search_parameters": {},
+            "load_conversion_package_endpoint": {
+                "endpoint": "colrev.bibtex"
+            },
+            "comment": null
         }
     ],
     "search": {
