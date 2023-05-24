@@ -41,6 +41,45 @@ Data was managed with CoLRev version 0.8.4 [@WagnerPrester2022].
 
 # Coding and synthesis
 
-<!-- NEW_RECORD_SOURCE -->
+_Records to synthesize_:<!-- NEW_RECORD_SOURCE -->
+
+
+- @SrivastavaShainesh2015
+
+- @Staehr2010
+
+- @Stafford2016
+
+- @Stahl2008
+
+- @Stahl2012
+
+- @Stahl2012a
+
+- @Stahl2014
+
+- @StahlDohertyShaw2012
+
+- @StahlEdenJirotkaEtAl2014
+
+- @StahlTremblayLeRouge2011
+
+- @StandingSimsLove2009
+
+- @StandingStandingLove2010
+
+- @StanoevskaSlabeva2002
+
+- @StanovskyEckleKohlerPuzikovEtAl2017
+
+- @StaplesWebster2008
+
+- @SteinGalliersWhitley2016
+
+- @SteinNewellWagnerEtAl2015
+
+- @SteinZwass1995
+
+- @SteinbartKeithBabb2016
 
 # References
