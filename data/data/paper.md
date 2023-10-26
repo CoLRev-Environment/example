@@ -21,29 +21,6 @@ Data was managed with CoLRev version 0.10.4 [@WagnerPrester2022].
 
 # Synthesis
 
-# Discussion
-
-# Conclusion
-
-<!--
-# Appendix
-
-## Declarations
-
-## List of contributors
-
-## Project timeline
-
-## Software tools
-
-## Publication plan
- -->
-
-# Coding and synthesis
-
-_Records to synthesize_:<!-- NEW_RECORD_SOURCE -->
-
-
 - @SrivastavaShainesh2015
 
 - @Staehr2010
@@ -79,5 +56,27 @@ _Records to synthesize_:<!-- NEW_RECORD_SOURCE -->
 - @SteinZwass1995
 
 - @SteinbartKeithBabb2016
+
+# Discussion
+
+# Conclusion
+
+<!--
+# Appendix
+
+## Declarations
+
+## List of contributors
+
+## Project timeline
+
+## Software tools
+
+## Publication plan
+ -->
+
+# Coding and synthesis
+
+_Records to synthesize_:<!-- NEW_RECORD_SOURCE -->
 
 # References
