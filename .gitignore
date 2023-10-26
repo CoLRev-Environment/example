@@ -1,0 +1,15 @@
+.history
+.colrev
+.corrections
+.report.log
+__pycache__
+*.bib.sav
+venv
+output
+data/pdfs
+data/pdf_get_man/missing_pdf_files.csv
+data/.tei/
+data/prep_man/records_prep_man.bib
+data/prep/
+data/dedupe/
+data/data/sample_references.bib
