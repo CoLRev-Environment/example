@@ -31,6 +31,20 @@
                 "query_file": "data/search/30_example_records_query.txt"
             },
             "comment": ""
+        },
+        {
+            "endpoint": "colrev.local_index",
+            "filename": "data/search/md_curated.bib",
+            "search_type": "MD",
+            "search_parameters": {},
+            "comment": ""
+        },
+        {
+            "endpoint": "colrev.crossref",
+            "filename": "data/search/md_crossref.bib",
+            "search_type": "MD",
+            "search_parameters": {},
+            "comment": ""
         }
     ],
     "search": {
