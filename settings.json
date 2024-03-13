@@ -116,7 +116,6 @@
         ]
     },
     "dedupe": {
-        "same_source_merges": "prevent",
         "dedupe_package_endpoints": [
             {
                 "endpoint": "colrev.simple_dedupe"
@@ -150,7 +149,8 @@
             {
                 "endpoint": "colrev.colrev_cli_pdf_get_man"
             }
-        ]
+        ],
+        "defects_to_ignore": []
     },
     "pdf_prep": {
         "keep_backup_of_pdfs": true,
